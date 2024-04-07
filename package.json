@@ -1,0 +1,9 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "RSS Reader",
+  "main": "index.js",
+  "author": "Natalia Garaeva",
+  "license": "ISC",
+  "type": "module"
+}
